@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sunday, February 13, 2022 4:51:55 AM
+   Source : C:\Users\j.thompson\Desktop\WorkFiles\projectfiles\
+     Dest : C:\Users\j.thompson\Documents\
+
+    Files : *.*
+	    
+  Options : *.* /DCOPY:DA /COPY:DAT /R:10 /W:30 
+
+------------------------------------------------------------------------------
+
+2022/02/13 04:51:55 ERROR 3 (0x00000003) Accessing Source Directory C:\Users\j.thompson\Desktop\WorkFiles\projectfiles\
+The system cannot find the path specified.
